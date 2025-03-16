@@ -1,0 +1,1 @@
+A simple chat application built with Spring Boot and JavaScript, demonstrating polling, long polling, and WebSocket communication methods.
